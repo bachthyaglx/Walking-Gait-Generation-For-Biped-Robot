@@ -17,7 +17,7 @@ Flow Diagram
 
 ![image](https://user-images.githubusercontent.com/62774638/156405844-c8769db9-ecd8-452f-9cf9-a61d4fb6398e.png)
 
-Model Design
+Physical model
 
 ![image](https://user-images.githubusercontent.com/62774638/156406002-7ede0776-491d-43f0-a0dc-8aebf39f19e8.png)
 
