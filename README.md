@@ -1,4 +1,4 @@
-# Walking-Gait-Generation-For-Biped-Robot
+# Walking Gait Generation For Biped Robot
 This thesis will use 2 algorithms: Genetic Algorithm (GA) and Particle Swarm Optimi-zation (PSO) and geometric method to solve problems of biped. The geometric method is applied on calculating angle rotations of motors such that the harmony between the spins generating the the shape of the robot while it moving. After that, a comparison be-tween GA and PSO is conducted with different parameters to make commentary and no-tation on the balancing of the biped robot. Finally, the thesis concludes the optimized re-sults and suggests new directions in the future. The microcontroller is Arduino and used to embed code. 
 
 Forward Kinematics
